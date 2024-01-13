@@ -1,0 +1,77 @@
+{
+    "data": [
+      {
+        "Gambar": "./IMG/Woody.jpg",
+        "Nama": "Woody - Toy Story",
+        "Bintang": 5,
+        "diskon": true,
+        "HargaDiskon": 800000,
+        "Harga": 540000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/aliens.jpg",
+        "Nama": "Aliens - Toy Story",
+        "Bintang": 4,
+        "diskon": true,
+        "HargaDiskon": 500000,
+        "Harga": 320000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/Jessie.jpg",
+        "Nama": "Jessie - Toy Story",
+        "Bintang": 4,
+        "diskon": true,
+        "HargaDiskon": 800000,
+        "Harga": 540000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/buzz.jpg",
+        "Nama": "Buzz - Toy Story",
+        "Bintang": 5,
+        "diskon": false,
+        "HargaDiskon": "",
+        "Harga": 700000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/kuda.jpg",
+        "Nama": "Bullseye - Toy Story",
+        "Bintang": 3,
+        "diskon": true,
+        "HargaDiskon": 500000,
+        "Harga": 320000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/duke.jpg",
+        "Nama": "Duke - Toy Story",
+        "Bintang": 5,
+        "diskon": false,
+        "HargaDiskon": "",
+        "Harga": 400000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/zurg.jpg",
+        "Nama": "Zurg - Toy Story",
+        "Bintang": 5,
+        "diskon": true,
+        "HargaDiskon": 720000,
+        "Harga": 520000,
+        "sold":false
+      },
+      {
+        "Gambar": "./IMG/mr potato.jpg",
+        "Nama": "Mr Potato - Toy Story",
+        "Bintang": 3,
+        "diskon": false,
+        "HargaDiskon": "",
+        "Harga": 299000,
+        "sold":false
+      }
+    ]
+  }
+  
